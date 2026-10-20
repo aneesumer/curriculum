@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="O-XH0umRnZQfyu7eKLgC">
+    <mxGraphModel dx="2241" dy="1920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rwIRhGpr_kxKssyhHski-42" edge="1" parent="1" source="rwIRhGpr_kxKssyhHski-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rwIRhGpr_kxKssyhHski-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-43" edge="1" parent="1" source="rwIRhGpr_kxKssyhHski-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rwIRhGpr_kxKssyhHski-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Core Curriculum&lt;/b&gt;&lt;div&gt;&lt;b&gt;24 CT&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-8" edge="1" parent="1" source="rwIRhGpr_kxKssyhHski-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rwIRhGpr_kxKssyhHski-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-10" edge="1" parent="1" source="rwIRhGpr_kxKssyhHski-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rwIRhGpr_kxKssyhHski-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-26" edge="1" parent="1" source="rwIRhGpr_kxKssyhHski-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rwIRhGpr_kxKssyhHski-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Professionalisation&lt;/b&gt;&lt;div&gt;&lt;b&gt;66 CT&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="500" width="120" x="100" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Thesis&lt;/b&gt;&lt;div&gt;&lt;b&gt;30 CT&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-24" edge="1" parent="1" source="rwIRhGpr_kxKssyhHski-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rwIRhGpr_kxKssyhHski-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-27" edge="1" parent="1" source="rwIRhGpr_kxKssyhHski-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rwIRhGpr_kxKssyhHski-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Specialization&lt;/b&gt;&lt;div&gt;&lt;b&gt;48 CT&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-30" edge="1" parent="1" source="rwIRhGpr_kxKssyhHski-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rwIRhGpr_kxKssyhHski-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-31" edge="1" parent="1" source="rwIRhGpr_kxKssyhHski-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rwIRhGpr_kxKssyhHski-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Key Competency&lt;/b&gt;&lt;div&gt;&lt;b&gt;12 CT&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Elective&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;6 CT&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-33" edge="1" parent="1" source="rwIRhGpr_kxKssyhHski-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rwIRhGpr_kxKssyhHski-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-44" edge="1" parent="1" source="rwIRhGpr_kxKssyhHski-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rwIRhGpr_kxKssyhHski-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Applied Comp&amp;nbsp;&lt;br&gt;Science MS&lt;/b&gt;&lt;div&gt;&lt;b&gt;120 CT&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="700" width="120" x="-280" y="-90" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Profession Specific&lt;/b&gt;&lt;div&gt;&lt;b&gt;6 CT&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Extra&lt;/b&gt;&lt;div&gt;&lt;b&gt;6 CT&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-37" edge="1" parent="1" source="rwIRhGpr_kxKssyhHski-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="rwIRhGpr_kxKssyhHski-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-38" edge="1" parent="1" source="rwIRhGpr_kxKssyhHski-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rwIRhGpr_kxKssyhHski-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-39" edge="1" parent="1" source="rwIRhGpr_kxKssyhHski-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rwIRhGpr_kxKssyhHski-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Module&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Specific Application Systems&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;30 CT&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;System-oriented Informatics&lt;/b&gt;&lt;div&gt;&lt;b&gt;15 CT&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Lecture&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;gt; 5 CT&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;" value="Seminar&lt;div&gt;&amp;gt; 5 CT&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Practical&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&amp;gt; 5 CT&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Compulsory Elective&lt;/b&gt;&lt;div&gt;&lt;b&gt;15 CT&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="-100" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Elective&lt;/b&gt;&lt;div&gt;&lt;b&gt;9 CT&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="rwIRhGpr_kxKssyhHski-45" edge="1" parent="1" source="rwIRhGpr_kxKssyhHski-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rwIRhGpr_kxKssyhHski-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
